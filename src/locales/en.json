@@ -1,0 +1,60 @@
+{
+  "home": {
+    "systemInformation": {
+      "cpuCores": "{0} core(s) ({1} physical)",
+      "disk": "{0} {1} {2} ({3})",
+      "displayMain": "Main {0} ({1})",
+      "displaySecondary": "#{0} {1} ({2})",
+      "motherboard": "{0} {1} ({2}) motherboard",
+      "ramLayout": "{0}",
+      "title": "System information"
+    }
+  },
+  "menu": {
+    "languages": {
+      "en": "English",
+      "es": "Español"
+    },
+    "tabs": {
+      "home": "Dashboard",
+      "settings": "Settings",
+      "splash": "Splash"
+    }
+  },
+  "settings": {
+    "local": {
+      "collectTime": "Collect data time",
+      "pushTime": "Push data time",
+      "startWithSystem": "Start on system startup",
+      "title": "Local settings"
+    }
+  },
+  "systemInformation": {
+    "cpu": {
+      "cores": "Core(s)",
+      "physicalCores": "Physical core(s)"
+    }
+  },
+  "time": {
+    "millisecond": "millisecond",
+    "second": "second",
+    "minute": "minute",
+    "hour": "hour",
+    "day": "day",
+    "week": "week",
+    "month": "month",
+    "year": "year"
+  },
+  "usage": {
+    "cpu": {
+      "currentLoad": "Current load",
+      "currentSystemLoad": "System load",
+      "currentUserLoad": "User load"
+    },
+    "memory": {
+      "cached": "Cached",
+      "free": "Free",
+      "used": "Used"
+    }
+  }
+}

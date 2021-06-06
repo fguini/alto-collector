@@ -1,0 +1,60 @@
+{
+  "home": {
+    "systemInformation": {
+      "cpuCores": "{0} nucleo(s) ({1} físicos)",
+      "disk": "{0} {1} {2} ({3})",
+      "displayMain": "Principal {0} ({1})",
+      "displaySecondary": "#{0} {1} ({2})",
+      "motherboard": "Placa madre: {0} {1} ({2})",
+      "ramLayout": "{0}",
+      "title": "Información del sistema"
+    }
+  },
+  "menu": {
+    "languages": {
+      "en": "English",
+      "es": "Español"
+    },
+    "tabs": {
+      "home": "Dashboard",
+      "settings": "Configuración",
+      "splash": "Splash"
+    }
+  },
+  "settings": {
+    "local": {
+      "collectTime": "Recolección de datos",
+      "pushTime": "Subida de datos",
+      "startWithSystem": "Iniciar cuando el equipo inicie",
+      "title": "Configuración local"
+    }
+  },
+  "systemInformation": {
+    "cpu": {
+      "cores": "Nucleo(s)",
+      "physicalCores": "Nucleo(s) físicos"
+    }
+  },
+  "time": {
+    "millisecond": "milisegundo",
+    "second": "segundo",
+    "minute": "minuto",
+    "hour": "hora",
+    "day": "día",
+    "week": "semana",
+    "month": "mes",
+    "year": "año"
+  },
+  "usage": {
+    "cpu": {
+      "currentLoad": "Carga actual",
+      "currentSystemLoad": "Carga de sistema",
+      "currentUserLoad": "Carga de usuario"
+    },
+    "memory": {
+      "cached": "En cache",
+      "free": "Libre",
+      "used": "Ocupada"
+    }
+  }
+}
